@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: firstClassFunctions",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\firstClassFunctions\\firstClassFunctions.csproj",
+            "launchConfigurationId": "TargetFramework=;firstClassFunctions"
+        },
+        {
+            "name": "C#: Launch Startup Project",
+            "type": "dotnet",
+            "request": "launch"
+        }
+    ]
+}
