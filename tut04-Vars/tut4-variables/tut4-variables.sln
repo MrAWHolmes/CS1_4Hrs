@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tut4-variables", "tut4-variables\tut4-variables.csproj", "{69F1E573-2B17-4115-92E9-FD5505EC2CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F1E573-2B17-4115-92E9-FD5505EC2CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F1E573-2B17-4115-92E9-FD5505EC2CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F1E573-2B17-4115-92E9-FD5505EC2CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F1E573-2B17-4115-92E9-FD5505EC2CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922701F4-DE7A-46A7-848B-A59C0DF355E2}
+	EndGlobalSection
+EndGlobal
