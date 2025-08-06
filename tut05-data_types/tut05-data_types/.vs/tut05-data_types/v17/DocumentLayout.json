@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut05-data_types\\tut05-data_types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9319D-122D-44A1-8867-067D5C8C288F}|tut05-data_types\\tut05-data_types.csproj|c:\\users\\archi\\documents\\c#-dotnet\\giraffe4hrs\\cs1_4hrs\\tut05-data_types\\tut05-data_types\\tut05-data_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9319D-122D-44A1-8867-067D5C8C288F}|tut05-data_types\\tut05-data_types.csproj|solutionrelative:tut05-data_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut05-data_types\\tut05-data_types\\tut05-data_types\\Program.cs",
+              "RelativeDocumentMoniker": "tut05-data_types\\Program.cs",
+              "ToolTip": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut05-data_types\\tut05-data_types\\tut05-data_types\\Program.cs",
+              "RelativeToolTip": "tut05-data_types\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:56:00.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
