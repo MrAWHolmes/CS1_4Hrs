@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut10-madlib\\tut10-madlib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F127C5-3AEF-4899-A401-22AD8B62F8B1}|tut10-madlib\\tut10-madlib.csproj|c:\\users\\archi\\documents\\c#-dotnet\\giraffe4hrs\\cs1_4hrs\\tut10-madlib\\tut10-madlib\\tut10-madlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F127C5-3AEF-4899-A401-22AD8B62F8B1}|tut10-madlib\\tut10-madlib.csproj|solutionrelative:tut10-madlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut10-madlib\\tut10-madlib\\tut10-madlib\\Program.cs",
+              "RelativeDocumentMoniker": "tut10-madlib\\Program.cs",
+              "ToolTip": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut10-madlib\\tut10-madlib\\tut10-madlib\\Program.cs",
+              "RelativeToolTip": "tut10-madlib\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:57:05.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
