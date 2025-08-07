@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut12-methods\\Tut12-Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3BC9D0-673A-468F-A91B-5D02FD9270B5}|Tut12-Methods\\Tut12-Methods.csproj|c:\\users\\archi\\documents\\c#-dotnet\\giraffe4hrs\\cs1_4hrs\\tut12-methods\\tut12-methods\\tut12-methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3BC9D0-673A-468F-A91B-5D02FD9270B5}|Tut12-Methods\\Tut12-Methods.csproj|solutionrelative:tut12-methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut12-methods\\Tut12-Methods\\Tut12-Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Tut12-Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut12-methods\\Tut12-Methods\\Tut12-Methods\\Program.cs",
+              "RelativeToolTip": "Tut12-Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:41:29.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
