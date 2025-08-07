@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut13-returns\\Tut13-Returns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51ED70C-C323-4EDF-B387-6D81AF2AEB60}|Tut13-Returns\\Tut13-Returns.csproj|c:\\users\\archi\\documents\\c#-dotnet\\giraffe4hrs\\cs1_4hrs\\tut13-returns\\tut13-returns\\tut13-returns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51ED70C-C323-4EDF-B387-6D81AF2AEB60}|Tut13-Returns\\Tut13-Returns.csproj|solutionrelative:tut13-returns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut13-returns\\Tut13-Returns\\Tut13-Returns\\Program.cs",
+              "RelativeDocumentMoniker": "Tut13-Returns\\Program.cs",
+              "ToolTip": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut13-returns\\Tut13-Returns\\Tut13-Returns\\Program.cs",
+              "RelativeToolTip": "Tut13-Returns\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:50:24.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
