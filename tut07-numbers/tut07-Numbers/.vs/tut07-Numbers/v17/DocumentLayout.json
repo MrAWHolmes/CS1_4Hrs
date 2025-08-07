@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut07-numbers\\tut07-Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31104F7E-2BD0-47BB-9C1E-5EA66D7BC6D1}|tut07-Numbers\\tut07-Numbers.csproj|c:\\users\\archi\\documents\\c#-dotnet\\giraffe4hrs\\cs1_4hrs\\tut07-numbers\\tut07-numbers\\tut07-numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31104F7E-2BD0-47BB-9C1E-5EA66D7BC6D1}|tut07-Numbers\\tut07-Numbers.csproj|solutionrelative:tut07-numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut07-numbers\\tut07-Numbers\\tut07-Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "tut07-Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\archi\\Documents\\C#-Dotnet\\giraffe4hrs\\CS1_4Hrs\\tut07-numbers\\tut07-Numbers\\tut07-Numbers\\Program.cs",
+              "RelativeToolTip": "tut07-Numbers\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:00:05.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
